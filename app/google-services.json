@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290855897039",
+    "project_id": "kotlin-firebase-cb939",
+    "storage_bucket": "kotlin-firebase-cb939.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290855897039:android:336bbd39931522d82874ba",
+        "android_client_info": {
+          "package_name": "com.example.ventaexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGi9lDsUb6yGZdo0VBP1baVE6HbTKmt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

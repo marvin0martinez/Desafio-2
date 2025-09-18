@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name">VentaExpress</string>
+        <string name="nombre">Nombre</string>
+        <string name="descripcion">Descripción</string>
+        <string name="precio">Precio</string>
+        <string name="stock">Stock</string>
+        <string name="edit">Editar</string>
+        <string name="delete">Eliminar</string>
+    <string name="product_name">nombreProducto</string>
+        <string name="product_description">DescripcionProducto</string>
+        <string name="product_price">ProductoPrecio</string>
+        <string name="product_stock">stock</string>
+    <string name="add_product">agregarProducto</string>
+    <string name="add_client">addCliente</string>
+    <string name="correo">correo</string>
+    <string name="telefono">numeroTelefono</string>
+    <string name="add_sale">agregarVenta</string>
+
+        <string name="cliente">Cliente</string>
+        <string name="total">Total</string>
+        <string name="fecha">Fecha</string>
+
+</resources>
